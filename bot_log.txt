@@ -1,0 +1,14 @@
+[2025-02-02T10:14:15.154Z] Bot Telegram telah dimulai.
+[2025-02-02T10:15:24.041Z] User azpwk_id mengirimkan: https://vt.tiktok.com/ZS6Thh6Lb/
+[2025-02-02T10:15:24.044Z] Sedang memproses tautan dari user azpwk_id...
+[2025-02-02T10:15:27.021Z] Berhasil mengirim tautan ke user azpwk_id:
+Berikut tautan unduhan video TikTok Anda:
+- Video SD: Tidak tersedia
+- Video HD: https://fastdl.muscdn.app/X3NlbmFuZ3RlcnVz/hd/aHR0cHM6Ly92MTZtLWRlZmF1bHQuYWthbWFpemVkLm5ldC9lNWMwZjlhYjU2NDU0MDE0ODBhYjFkYjUxOTYyZGUwZC82NzlmOWE1Ny92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXYtMDA2OC9va1g4SHoxMmZBQTdSWEJoQ2dNTjdiRW96aUlyb3hDQW9raUVnVi8/YT0wJmJ0aT1PVGc3UUdvNVFITTZPalpBTFRBellDTXZjQ014TkROZyZjaD0wJmNyPTAmZHI9MCZlcj0wJmxyPWFsbCZuZXQ9MCZjZD0wJTdDMCU3QzAlN0MxJmN2PTEmYnI9MTg4MjAmYnQ9OTQxMCZjcz0wJmRzPTQmZnQ9WEU1YkNxVDBtN2pQRDEybGU3S0ozd1VURHZ5S01lRn5PNSZtaW1lX3R5cGU9dmlkZW9fbXA0JnFzPTEzJnJjPWFuRm9iM1k1Y21wcmVETXpOemN6TTBCcGFuRm9iM1k1Y21wcmVETXpOemN6TTBCZVpISmhNbVJ6YnpOZ0xTMWtNVFp6WVNOZVpISmhNbVJ6YnpOZ0xTMWtNVFp6Y3clM0QlM0QmdnZwbD0xJmw9MjAyNTAyMDIxMDE1MjVCQTkxMDQ4NjUwODEzRDBBODIyQSZidGFnPWUwMDA0ODAwMA==
+[2025-02-02T10:17:36.925Z] Bot dihentikan (SIGINT).
+[2025-02-02T10:17:44.470Z] Bot Telegram telah dimulai.
+[2025-02-02T10:18:11.460Z] User azpwk_id mengirimkan: https://vt.tiktok.com/ZS6Thh6Lb/
+[2025-02-02T10:18:11.464Z] Sedang memproses tautan dari user azpwk_id...
+[2025-02-02T10:18:13.430Z] Berhasil mengirim tombol unduhan ke user azpwk_id
+[2025-02-03T05:08:42.742Z] Bot Telegram telah dimulai.
+[2025-02-03T05:09:22.219Z] Bot Telegram telah dimulai.
